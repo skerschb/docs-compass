@@ -17,7 +17,7 @@ Collections View
 Collections View
 ----------------
 
-PThe :guilabel:`Collections` view lists the existing
+Hello :guilabel:`Collections` view lists the existing
 :manual:`collections </core/databases-and-collections/#collections>`
 in the selected database and general information for each collection.
 To access the :guilabel:`Collections` view for a database, from the
