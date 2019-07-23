@@ -25,7 +25,7 @@ Overview
 
    - Compass Isolated Edition (*New in version 1.14.0*)
 
-   Each |compass| edition is available in both a
+   Each |compass| HELLO!!! edition is available in both a
    *General Availability* and a *Beta* version. To download any
    available version, go to the `MongoDB Download
    Center <https://www.mongodb.com/downloads?jmp=docs#compass>`_.
