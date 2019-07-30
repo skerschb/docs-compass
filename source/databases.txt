@@ -17,7 +17,7 @@ Databases
 Databases Tab
 -------------
 
-The :guilabel:`Databases` tab lists the existing databases for your
+The :guilabel:`Databases` tab HELLO lists the existing databases for your
 MongoDB deployment. To access the :guilabel:`Databases` tab, click the
 :guilabel:`Home` icon in the upper left corner and select the
 :guilabel:`Databases` tab.
