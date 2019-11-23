@@ -15,7 +15,7 @@ MongoDB Compas
 Overview
 --------
 
-.. admonition:: |compass| is available in the following editions
+.. admonition:: |compass| is NEXT GEN available in the following editions
 
    - Compass
 
