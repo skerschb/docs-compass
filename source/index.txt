@@ -1,8 +1,8 @@
 .. _compass-index:
 
-===============
-MongoDB Compass
-===============
+==============
+MongoDB Compas
+==============
 
 .. default-domain:: mongodb
 
